@@ -40,26 +40,6 @@ Construindo pipelines escaláveis, arquiteturas modernas de dados e soluções o
 
 ---
 
-## 🏗️ O que você vai encontrar aqui
-
-📦 Projetos de engenharia de dados com foco em:
-- Pipelines ETL/ELT
-- Orquestração com Airflow
-- Integração com serviços AWS
-- Modelagem e transformação de dados
-- Data Warehousing com Snowflake
-
----
-
-## 📊 GitHub Stats
-
-<p align="left">
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
 ## 🌐 Vamos nos conectar
 
 <p align="left">
